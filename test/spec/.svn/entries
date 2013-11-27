@@ -1,0 +1,266 @@
+10
+
+dir
+0
+https://forge.info.unicaen.fr/svn/m2dnr2i-systeme/stardog/test/spec
+https://forge.info.unicaen.fr/svn/m2dnr2i-systeme
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d790cd61-0c57-4f00-9345-7ecb0d5f5322
+
+deletePermissionFromUser.spec.js
+file
+
+
+
+add
+
+assignPermissionToUser.spec.js
+file
+
+
+
+add
+
+deleteUser.spec.js
+file
+
+
+
+add
+
+listUserPermissions.spec.js
+file
+
+
+
+add
+
+transactions.spec.js
+file
+
+
+
+add
+
+dropDB.spec.js
+file
+
+
+
+add
+
+copyDB.spec.js
+file
+
+
+
+add
+
+getProperty.spec.js
+file
+
+
+
+add
+
+isUserEnabled.spec.js
+file
+
+
+
+add
+
+listRolePermissions.spec.js
+file
+
+
+
+add
+
+listUsers.spec.js
+file
+
+
+
+add
+
+migrateDB.spec.js
+file
+
+
+
+add
+
+setUserRoles.spec.js
+file
+
+
+
+add
+
+changePwd.spec.js
+file
+
+
+
+add
+
+explain.spec.js
+file
+
+
+
+add
+
+getDBOptions.spec.js
+file
+
+
+
+add
+
+listDBs.spec.js
+file
+
+
+
+add
+
+query.spec.js
+file
+
+
+
+add
+
+optimizeDB.spec.js
+file
+
+
+
+add
+
+createDB.spec.js
+file
+
+
+
+add
+
+setDBOptions.spec.js
+file
+
+
+
+add
+
+listRoleUsers.spec.js
+file
+
+
+
+add
+
+listUserRoles.spec.js
+file
+
+
+
+add
+
+getDBSize.spec.js
+file
+
+
+
+add
+
+listRoles.spec.js
+file
+
+
+
+add
+
+deletePermissionFromRole.spec.js
+file
+
+
+
+add
+
+assignPermissionToRole.spec.js
+file
+
+
+
+add
+
+deleteRole.spec.js
+file
+
+
+
+add
+
+getDB.spec.js
+file
+
+
+
+add
+
+listUserEffPermissions.spec.js
+file
+
+
+
+add
+
+queryGraph.spec.js
+file
+
+
+
+add
+
+userEnabled.spec.js
+file
+
+
+
+add
+
+isSuperUser.spec.js
+file
+
+
+
+add
+
+testSetEndpoint.spec.js
+file
+
+
+
+add
+

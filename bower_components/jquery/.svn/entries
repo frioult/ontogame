@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://forge.info.unicaen.fr/svn/m2dnr2i-systeme/stardog/bower_components/jquery
+https://forge.info.unicaen.fr/svn/m2dnr2i-systeme
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d790cd61-0c57-4f00-9345-7ecb0d5f5322
+
+bower.json
+file
+
+
+
+add
+
+component.json
+file
+
+
+
+add
+
+jquery.js
+file
+
+
+
+add
+
+jquery.min.js
+file
+
+
+
+add
+
+README.md
+file
+
+
+
+add
+
+composer.json
+file
+
+
+
+add
+
+jquery-migrate.js
+file
+
+
+
+add
+
+jquery-migrate.min.js
+file
+
+
+
+add
+
+package.json
+file
+
+
+
+add
+
+.bower.json
+file
+
+
+
+add
+
+.gitignore
+file
+
+
+
+add
+
